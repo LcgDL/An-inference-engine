@@ -1,5 +1,5 @@
 # An-inference-engine
-An inference engine for RDF
+An inference engine for RDF using python.
 
 
 Based on:
